@@ -1,0 +1,228 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-VariableFont_wdth,wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+div#principal-superior {
+    position: absolute;
+    height: 100px;
+    left: -0.14%;
+    right: 0.14%;
+    top: 0px;
+
+    background: #303030;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.barra-superior {
+
+    position: absolute;
+    height: 100px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background-color: #424242;
+    
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+.option-superior {
+
+    position: absolute;
+    left: 74.58%;
+    right: 2.6%;
+    top: 29%;
+    bottom: 32%;
+    
+ 
+ 
+}
+
+.accion-superior {
+    
+    position: absolute;
+    height: 22px;
+    left: 1.37%;
+    right: 69.71%;
+    top: calc(50% - 22px/2 + 0.5px);
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+
+    /* identical to box height */
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    
+    
+}
+
+.bregistrar {
+    
+    position: absolute;
+    left: 29.11%;
+    right: 31.85%;
+    top: 0%;
+    bottom: 0%;
+    border-radius: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background-color: #673AB7;
+    font-family: "Open sans";
+ }
+
+.taccess-superior {
+    position: absolute;
+    margin: auto;
+    margin-top: 12px;
+    
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    font-family: "Open sans";
+    
+}
+
+div#principal-login {
+    
+    position: absolute;
+    margin-top: 100px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: -21.68%;
+    background: #303030;
+}
+
+.login-p {
+    
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    left: 112px;
+  
+    
+    margin-top: 40px;
+    
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: #673AB7;
+    background-color: #424242;
+
+
+    
+}
+
+.access-l {
+    
+    position: absolute;
+    height: 33px;
+    left: 27.75%;
+    right: 27.61%;
+    margin-top: 60px;
+    top: calc(50% - 33px/2 - 259px);
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #D1C4E9;
+    
+}
+
+.fields-l {
+    
+    position: absolute;
+    left: 20%;
+    right: 20%;
+    top: 35%;
+    bottom: 35%;
+    background-color: #424242;
+
+    
+    
+}
+
+.mail-l {
+    
+    height: 40px;
+    
+    border-radius: 30px;
+    outline: none;
+    border: 0;
+    margin-top: 8px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    
+    background-color: #303030;
+    color: white;
+    
+    
+}
+
+.pass-l {
+    
+    height: 40px;
+    border-radius: 30px;
+    outline: none;
+    border: 0;
+    margin-top: 8px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    
+    background-color: #303030;
+    color: white;
+    font-family: "Open sans";
+    
+    
+}
+
+.rememberbox {
+    position: absolute;
+    
+    left: 30%;
+    right: 30%;
+    height: 35px;
+    font-family: "Open sans";
+    
+    
+}
+
+.bcontinue {
+    
+    position: absolute;
+    
+    left: 30%;
+    right: 30%;
+    height: 35px;
+    
+    bottom: 15%;
+    border-radius: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background-color: #673AB7;
+    color: white;
+    font-size: 16px;   
+    
+}
+
+div#rside {
+    
+    position: absolute;
+    left: 65%;
+    right: 20px;
+    height: 600px;
+    top: 150px;
+
+    
+}
